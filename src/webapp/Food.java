@@ -1,6 +1,6 @@
 package webapp;
 
-public class DogFood {
+public class Food {
 
     // fish
     // chicken
