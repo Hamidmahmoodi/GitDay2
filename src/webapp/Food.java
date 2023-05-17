@@ -4,5 +4,5 @@ public class Food {
 
     // fish
     // chicken
-    // cat food
+    // food
 }
